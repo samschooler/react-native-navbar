@@ -1,0 +1,27 @@
+{
+  "name": "react-native-navbar",
+  "version": "0.0.1",
+  "description": "A react native navigation bar",
+  "main": "NavBar.js",
+  "author": "Sam Schooler <me@sam.ink>",
+  "license": "MIT",
+  "scripts": {
+    "lint": "eslint NavBar.js NavBarFlexItem.js NavBarItem.js NavBarLeft.js NavBarRight.js NavBarTitle.js NavBarTouchableItem.js NavSearchBar.js styles.js"
+  },
+  "peerDependencies": {
+    "react": "^16.0.0-alpha.6",
+    "react-native": "^0.43.4"
+  },
+  "devDependencies": {
+    "babel": "^6.5.2",
+    "babel-eslint": "^7.1.1",
+    "eslint": "^3.11.1",
+    "eslint-config-airbnb": "13.0.0",
+    "eslint-plugin-import": "2.2.0",
+    "eslint-plugin-jsx-a11y": "2.2.3",
+    "eslint-plugin-react": "^6.7.1"
+  },
+  "dependencies": {
+    "prop-types": "^15.5.8"
+  }
+}
