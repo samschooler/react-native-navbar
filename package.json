@@ -2,7 +2,7 @@
   "name": "react-native-navbar",
   "version": "0.0.1",
   "description": "A react native navigation bar",
-  "main": "NavBar.js",
+  "main": "index.js",
   "author": "Sam Schooler <me@sam.ink>",
   "license": "MIT",
   "scripts": {
